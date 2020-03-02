@@ -4,8 +4,6 @@ package com.cleanup.todoc.model;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import java.util.Comparator;
-
 /**
  * <p>Model for the tasks of the application.</p>
  *
